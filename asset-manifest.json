@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/advent-competition/static/js/main.155ba294.js",
+    "static/media/photo1.png": "/advent-competition/static/media/photo1.5f839b76458ea9b6aef2.png",
+    "static/media/photo2.png": "/advent-competition/static/media/photo2.1a4ead9296c2382331e5.png",
+    "index.html": "/advent-competition/index.html",
+    "main.155ba294.js.map": "/advent-competition/static/js/main.155ba294.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.155ba294.js"
+  ]
+}
